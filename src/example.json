@@ -1,0 +1,29 @@
+[{
+      "id": 1,
+      "name": "Brandy José",
+      "type": "Poodle",
+      "age": 17,
+      "color": "White"
+    }, 
+    {
+      "id": 2,
+      "name": "Bujía",
+      "type": "Mestiza",
+      "age": 6,
+      "color": "Black & white"
+    },
+    {
+      "id": 3,
+      "name": "Pioja",
+      "type": "Mestiza",
+      "age": 7,
+      "color": "Beige"
+    },
+    {
+      "id": 4,
+      "name": "Jambo",
+      "type": "Poodle",
+      "age": 6,
+      "color": "White"
+    }    
+  ]
